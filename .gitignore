@@ -22,3 +22,8 @@ MemoryCaptures/
 # Systemowe
 .DS_Store
 Thumbs.db
+
+
+.vsconfig
+Packages/
+ProjectSettings/
